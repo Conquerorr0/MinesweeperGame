@@ -19,9 +19,9 @@ Bu proje, Java dilinde geliştirilmiş bir Mayın Tarlası oyununu içerir.
 
 ## Ekran Görüntüleri
 
-- [Ekran Görüntüsü 1](Difficulty.png)
-- [Ekran Görüntüsü 2](Game1.png)
-- [Ekran Görüntüsü 3](Game2.png)
+- [Zorluk](https://github.com/Conquerorr0/MinesweeperGame/blob/main/src/images/Screenshots/Difficulty.png)
+- [Oyun İçi Görüntü 1](Game1.png](https://github.com/Conquerorr0/MinesweeperGame/blob/main/src/images/Screenshots/Game1.png))
+- [Ekran Görüntüsü 3](https://github.com/Conquerorr0/MinesweeperGame/blob/main/src/images/Screenshots/Game2.png)
 
 ## Geliştirme Ortamı
 
