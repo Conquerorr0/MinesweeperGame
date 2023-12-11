@@ -1,0 +1,2 @@
+Game.ArkaplanPanel
+Game.Opening
