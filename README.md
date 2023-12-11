@@ -19,9 +19,9 @@ Bu proje, Java dilinde geliştirilmiş bir Mayın Tarlası oyununu içerir.
 
 ## Ekran Görüntüleri
 
-- [Ekran Görüntüsü 1](screenshot1.png)
-- [Ekran Görüntüsü 2](screenshot2.png)
-- [Ekran Görüntüsü 3](screenshot3.png)
+- [Ekran Görüntüsü 1](Difficulty.png)
+- [Ekran Görüntüsü 2](Game1.png)
+- [Ekran Görüntüsü 3](Game2.png)
 
 ## Geliştirme Ortamı
 
